@@ -1,0 +1,8 @@
+@import "bootstrap";
+
+.cnt-bg {
+    width: 100%;
+    height: 100VH;
+    background-size: cover;
+    background-image: url(image_path('bgimg.png'));
+}
